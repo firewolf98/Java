@@ -1,0 +1,15 @@
+123
+luca
+esposito
+20
+30
+124
+mario
+rossi
+10
+50
+125
+giuseppe
+verdi
+50
+10
